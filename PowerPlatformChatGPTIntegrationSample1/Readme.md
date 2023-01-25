@@ -1,4 +1,4 @@
-# First Sample Descrition
+# First Sample Description
 In this sample you find a PowerPlatform Unmanaged solution called ChatGPT_1_0_0_2.zip
 
 This solution contains
